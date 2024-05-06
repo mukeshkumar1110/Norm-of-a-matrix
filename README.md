@@ -57,21 +57,14 @@ print(Norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
-<br>
-<br>
 ![alt text](<Screenshot 2024-05-06 131203.png>)
 
 ### 2-Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![alt text](<Screenshot 2024-05-06 132604.png>)
 
 ### Infinity Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![alt text](<Screenshot 2024-05-06 132703-1.png>)
 
 ## Result
